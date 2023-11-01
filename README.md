@@ -1,2 +1,2 @@
-# ProjetoPython
-Projeto python, 2o diogenes
+# Python Project - Gas Station
+Python Project
